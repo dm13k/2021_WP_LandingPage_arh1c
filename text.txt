@@ -1,0 +1,13 @@
+шаблон лендинга Arh1C.ru
+
+
+reg.ru через ispmanager
+- установить WordPress
+через WordPress
+- установить тему Hello Elementor
+- установить плагины elementor и elementor-pro
+reg.ru через ispmanager
+- скопировать папку www\arh1c.ru\wp-content\uploads\2021
+- скопировать папку www\arh1c.ru\wp-content\uploads\elementor\css
+reg.ru через ispmanager
+- Базу Данных сделать Импорт дампа u1551950_default.sql
